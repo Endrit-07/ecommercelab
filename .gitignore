@@ -1,1 +1,9 @@
-node_modules
+# Injoroni folderin node_modules
+node_modules/
+
+# Injoroni skedarët e mjedisit
+.env
+.env.local
+
+# Injoroni skedarët e sistemit operativ
+.DS_Store
